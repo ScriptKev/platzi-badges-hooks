@@ -1,5 +1,6 @@
 # Platzi Badges Actualizado con React Hooks
 - Con JSON-Server como "API"
+- **Importante**: Este proyecto solo funciona de forma **LOCAL**
 
 ### 1. Descargar el repositorio e instalar dependencias de React, React Router, JSON-Server, Bootstrap y Node-Sass 
 ### 2. Inicializar la "API" con `npm run server`
